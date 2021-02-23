@@ -1,3 +1,8 @@
+#!/usr/bin/env python3 
+# -*- coding: utf-8 -*- 
+
+""" JSON handling script """
+
 from json import load
 import sys
 

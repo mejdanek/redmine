@@ -2,3 +2,4 @@ vp.csv
 config.json
 libs/__pycache__/
 .vscode/
+logs/

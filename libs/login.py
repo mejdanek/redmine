@@ -1,3 +1,8 @@
+#!/usr/bin/env python3 
+# -*- coding: utf-8 -*- 
+
+""" Login management script """
+
 from getpass import getpass
 
 def get_username():
